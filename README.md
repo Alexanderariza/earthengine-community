@@ -19,7 +19,7 @@ limitations under the License.
 Este repositorio incluye contenido enviado o mantenido por Earth Engine.
 comunidad de desarrolladores.
 
-## Community Tutorials
+## Community Tutorials in Spanish
 
 * [Browse tutorials][tutoriales]
 * [Request a tutorial][solicitud]
