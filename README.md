@@ -30,7 +30,7 @@ Archivos agregados a [`tutorials/`][folder] aparecerá bajo el
 
 ## Contribuyendo
 
-Lo animamos a unirse al equipo de [Earth Engine Community contributors][contribuidores]!
+Lo animamos a unirse al equipo de [Earth Engine Community contributors][contributors]!
 
 Visite el [contributing page][contribute] para saber como. ✏️
 
