@@ -34,11 +34,11 @@ Lo animamos a unirse al equipo de [Earth Engine Community contributors][contribu
 
 Visite el [contributing page][contribute] para saber como. ✏️
 
-[carpeta]: https://github.com/google/earthengine-community/tree/master/tutorials
-[tutoriales]: https://developers.google.com/earth-engine/tutorials/community/explore
+[folder]: https://github.com/google/earthengine-community/tree/master/tutorials
+[tutorials]: https://developers.google.com/earth-engine/tutorials/community/explore
 [contribute]: https://github.com/google/earthengine-community/blob/master/CONTRIBUTING.md
-[requisitos]: https://github.com/google/earthengine-community/issues/new?title=Tutorial%20Request:%20<title>&body=Description%0A%0ATechnical%20Level%0Abeginner%20%7C%20intermediate%20%7C%20advanced%0A%0ALength%0Ashort%20(<%20250%20words)%20%7C%20medium%20(250-500%20words)%20%7C%20long%20(1000%20words+)%0A
-[escriba]: https://developers.google.com/earth-engine/tutorials/community/write
+[request]: https://github.com/google/earthengine-community/issues/new?title=Tutorial%20Request:%20<title>&body=Description%0A%0ATechnical%20Level%0Abeginner%20%7C%20intermediate%20%7C%20advanced%0A%0ALength%0Ashort%20(<%20250%20words)%20%7C%20medium%20(250-500%20words)%20%7C%20long%20(1000%20words+)%0A
+[write]: https://developers.google.com/earth-engine/tutorials/community/write
 [cca]: https://creativecommons.org/licenses/by/4.0/
 [apache]: http://www.apache.org/licenses/LICENSE-2.0
 [authors]: https://github.com/google/earthengine-community/blob/master/AUTHORS
