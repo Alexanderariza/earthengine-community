@@ -21,7 +21,7 @@ comunidad de desarrolladores.
 
 ## Tutoriales comunitarios en español - Community Tutorials in Spanish
 
-* [Browse tutorials][tutoriales]
+* [Explorar tutoriales][tutoriales]
 * [Request a tutorial][request]
 * [Submit a tutorial][write]
 
