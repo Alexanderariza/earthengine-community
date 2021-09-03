@@ -1,7 +1,7 @@
 ---
-title: Beginner's Cookbook
-description: This cookbook provides a fundamental overview of the data and tools commonly used in geospatial analysis using the Earth Engine JavaScript API.
-author: TC25
+title: Libro de cocina para principiantes
+description: Este libro de cocina ofrece una descripción general fundamental de los datos y las herramientas que se utilizan habitualmente en el análisis geoespacial mediante la API de JavaScript de Earth Engine..
+author:  
 tags: introductory, GIS, remote sensing
 date_published: 2019-11-11
 ---
