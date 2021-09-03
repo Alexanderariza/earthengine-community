@@ -16,17 +16,17 @@ limitations under the License.
 
 # Google Earth Engine Community <!--[![Build Status](https://travis-ci.org/google/earthengine-community.svg?branch=master)](https://travis-ci.org/google/earthengine-community)-->
 
-This repository contains content submitted and/or maintained by the Earth Engine
-developer community.
+Este repositorio incluye contenido enviado o mantenido por Earth Engine.
+comunidad de desarrolladores.
 
 ## Community Tutorials
 
-* [Browse tutorials][tutorials]
-* [Request a tutorial][request]
-* [Submit a tutorial][write]
+* [Browse tutorials][tutoriales]
+* [Request a tutorial][solicitud]
+* [Submit a tutorial][Escritura]
 
-Files added to [`tutorials/`][folder] will appear under the
-[community tutorials section][tutorials] of the Earth Engine Developer's Guide.
+Archivos agregados a [`tutorials/`][folder] aparecerá bajo el
+[community tutorials section][tutorials] de la Guía para desarrolladores de Earth Engine.
 
 ## Contributing
 
