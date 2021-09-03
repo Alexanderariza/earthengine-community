@@ -22,8 +22,8 @@ comunidad de desarrolladores.
 ## Tutoriales comunitarios en español - Community Tutorials in Spanish
 
 * [Browse tutorials][tutoriales]
-* [Request a tutorial][solicitud]
-* [Submit a tutorial][Escritura]
+* [Request a tutorial][request]
+* [Submit a tutorial][write]
 
 Archivos agregados a [`tutorials/`][folder] aparecerá bajo el
 [community tutorials section][tutorials] de la Guía para desarrolladores de Earth Engine.
